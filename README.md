@@ -1,7 +1,7 @@
 # Método TakeWhile() Vs. Método Where(). 
 
 ## Objetivo
-Demonstrar a diferença no uso dos métodos na realização de filtros em uma lista.
+Demonstrar a diferença do uso dos métodos na realização de filtros em uma lista.
 
 **TakeWhile()**
 
